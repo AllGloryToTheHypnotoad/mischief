@@ -31,7 +31,7 @@ setup(
     description='Another interface to haveibeenpawned.com',
     long_description=open('readme.md').read(),
     long_description_content_type='text/markdown',
-    url='http://github.com/Hypnotoad/{}'.format(PACKAGE_NAME),
+    url='http://github.com/AllGloryToTheHypnotoad/{}'.format(PACKAGE_NAME),
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
