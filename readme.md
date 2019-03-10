@@ -1,10 +1,22 @@
 # Mischief
 
+# Required Libraries
+
+- build_utils
+- requests
+- colorama
+
+# Example
+
+Place a list of accounts (emails) into a json file array:
+
 ```json
 [
     "test@example.com"
 ]
 ```
+
+Then call `pymischief` and the file:
 
 ```bash
  kevin@Logan bin $ ./pymischief.py test.json

@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# import requests
 from colorama import Fore, Style
-# import hashlib
 import time
 import argparse
 from mischief.pwned import Pwned
