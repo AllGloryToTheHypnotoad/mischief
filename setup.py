@@ -28,7 +28,7 @@ setup(
     author_email='walchko@users.noreply.github.com',
     name=PACKAGE_NAME,
     version=VERSION,
-    description='Another interface to haveibeenpawned.com',
+    description='Another interface to haveibeenpwned.com',
     long_description=open('readme.md').read(),
     long_description_content_type='text/markdown',
     url='http://github.com/AllGloryToTheHypnotoad/{}'.format(PACKAGE_NAME),
