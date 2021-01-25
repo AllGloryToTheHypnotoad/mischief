@@ -2,7 +2,6 @@
 
 # Required Libraries
 
-- build_utils
 - requests
 - colorama
 
